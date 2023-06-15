@@ -4,4 +4,5 @@ public class Comida {
     private int edad;
     //atributo nombre2 para rama jean
     private String nombre2;
+    private String nombre3;
 }
